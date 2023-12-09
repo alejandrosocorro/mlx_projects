@@ -1,2 +1,4 @@
-# mlx_projects
-Projects using the MLX framework
+# MLX Projects
+
+Projects using the [MLX framework](https://github.com/ml-explore/mlx).
+
